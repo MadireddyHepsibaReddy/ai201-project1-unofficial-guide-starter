@@ -1,0 +1,15 @@
+Source: Rate My Professors - Amol Mali, Computer Science, UWM
+URL: https://www.ratemyprofessors.com/professor/1671353
+
+---
+
+Review 1 (CompSci 657 - AI Ethics):
+I had CompSci 657: AI Ethics with Amol Mali. I don't know why he has bad reviews — he is kind of a legend. The class was technically in person, but almost every lecture was online. Stupidly easy HW assignments and the final exam was a breeze. He claims to not accept late HW's, yet accepted multiple from me. He's great.
+
+Review 2:
+For reference, the class was fully online and asynchronous. He had Zoom lectures he wouldn't announce until about an hour before, and required students to take the midterm during a specific time while on a Zoom call with the whole class. He does not respond fast to emails. DO NOT SKIP ANY ASSIGNMENT — it will ruin your grade. The entire class was self-taught.
+
+Review 3:
+In-person lectures are useless. All lectures are online and pre-recorded. You can get around a B on quizzes by guessing on every quiz question. If you are a self-motivated learner the class might be fine.
+
+Summary: Mixed reviews. CS 657 (AI Ethics) is considered easy by most. The biggest complaints are slow email responses and last-minute Zoom announcements. Self-motivated students tend to do well. Attendance is flexible but do not miss assignments — grading is sparse and each one matters.
